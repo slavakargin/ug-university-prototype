@@ -1,0 +1,30 @@
+site_name: "Mathematical Sciences Undergraduate Program (Prototype)"
+site_description: "Prototype of stable UG-program pages for migration to the university website."
+site_author: "Binghamton University Department of Mathematical Sciences (draft)"
+
+theme:
+  name: readthedocs
+
+plugins:
+  - search
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - tables
+
+nav:
+  - Home: index.md
+
+  - Overview:
+      - Program overview: content/overview/ug-program.md
+      - Learning outcomes: content/overview/learning-outcomes.md
+
+  - Tracks:
+      - Mathematics (BA/BS): content/tracks/pure-math.md
+      - Actuarial Science (BA/BS): content/tracks/actuarial.md
+      - Data Science & Statistics (BA/BS): content/tracks/data-science.md
+
+  - About:
+      - ug-content README: content/README.md
