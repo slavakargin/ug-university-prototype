@@ -25,6 +25,7 @@ nav:
       - Learning outcomes: content/overview/learning-outcomes.md
 
   - Tracks:
+      - Tracks overview: content/tracks/index.md
       - Mathematics (BA/BS): content/tracks/pure-math.md
       - Actuarial Science (BA/BS): content/tracks/actuarial.md
       - Data Science & Statistics (BA/BS): content/tracks/data-science.md
