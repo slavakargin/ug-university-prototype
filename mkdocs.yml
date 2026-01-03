@@ -22,6 +22,7 @@ nav:
 
   - Overview:
       - Program overview: content/overview/ug-program.md
+      - Math education (teaching): content/overview/math-education.md
 
   - Tracks:
       - Tracks overview: content/tracks/index.md
@@ -31,3 +32,4 @@ nav:
 
   - About:
       - ug-content README: content/README.md
+
