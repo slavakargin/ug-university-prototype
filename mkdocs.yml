@@ -31,7 +31,8 @@ nav:
       - Mathematics (BA/BS): content/tracks/pure-math.md
       - Actuarial Science (BA/BS): content/tracks/actuarial.md
       - Data Science & Statistics (BA/BS): content/tracks/data-science.md
-    - Policies:
+
+  - Policies:
       - Requirements and catalog year: content/policies/requirements-catalog-year.md
       - Minimum grades and repeats: content/policies/minimum-grades-repeats.md
       - Transfer and exam credit: content/policies/transfer-exam-credit.md
