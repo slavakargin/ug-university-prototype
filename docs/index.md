@@ -1,8 +1,6 @@
 # Mathematical Sciences Undergraduate Program (Prototype)
 
-Welcome to the Department of Mathematical Sciences undergraduate program. We offer flexible and rigorous pathways in mathematics, data science & statistics, and actuarial science.
-
-This prototype is intended to support a redesign in which **stable program information** lives on the university website, while **frequently updated advising logistics** remain on the department’s internal pages.
+The Department of Mathematics and Statistics offers flexible and rigorous pathways in mathematics, data science & statistics, and actuarial science.
 
 ## Degrees and tracks
 
