@@ -1,6 +1,6 @@
 # Mathematical Sciences Undergraduate Program (Prototype)
 
-The Department of Mathematics and Statistics offers flexible and rigorous pathways in mathematics, data science & statistics, and actuarial science.
+The Department of Mathematics and Statistics at Binghamton University offers courses and degree programs in mathematics, data science and statistics, and actuarial science.
 
 ## Degrees and tracks
 
