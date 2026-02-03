@@ -1,3 +1,7 @@
+Owner: Math UG Program  
+Canonical: university  
+Last reviewed: 2026-02-02  
+
 # Mathematical Sciences Undergraduate Program (Prototype)
 
 The Department of Mathematics and Statistics at Binghamton University offers courses and degree programs in mathematics, data science and statistics, and actuarial science.
